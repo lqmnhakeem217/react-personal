@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-personal/static/css/main.095e57fd.css",
+    "main.js": "/react-personal/static/js/main.def32b54.js",
+    "static/media/Me.png": "/react-personal/static/media/Me.3263adb83684f2cad092.png",
+    "static/media/bg-texture.png": "/react-personal/static/media/bg-texture.5fcaab9103fcf63f4a52.png",
+    "static/media/RESUME (Software Engineer).pdf": "/react-personal/static/media/RESUME (Software Engineer).66a6465ab27b6960538f.pdf",
+    "static/media/me-about.jfif": "/react-personal/static/media/me-about.9d3f0f51e20dd4f62a5f.jfif",
+    "index.html": "/react-personal/index.html",
+    "main.095e57fd.css.map": "/react-personal/static/css/main.095e57fd.css.map",
+    "main.def32b54.js.map": "/react-personal/static/js/main.def32b54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095e57fd.css",
+    "static/js/main.def32b54.js"
+  ]
+}
