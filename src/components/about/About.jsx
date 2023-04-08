@@ -40,12 +40,11 @@ const About = () => {
           <p>
             An Inspired Web Developer Seeking for Opportunities in the IT
             and Software Development. Conducted Few Companies Projects and
-            Some Personal Projects for Personal Enjoyment. Learnt Most of
+            Some Personal Projects for Self Enjoyment. Learnt Most of
             Them In Youtube, StackOverflow and Sample Project Found On the
             Internet. Good in Team-Building Projects, Creative Problem-Solver
             and Excellent on Receiving Critism.
           </p>
-
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
